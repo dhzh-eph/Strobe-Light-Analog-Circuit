@@ -68,6 +68,7 @@ If we want to implement amplification using a BJT for example, we can do common 
 [4] I/O table and 555 pinout https://www.youtube.com/watch?v=oZzjmAbyyIQ&t=315s <br/>
 [5] Logic Gates https://www.youtube.com/watch?v=sTu3LwpF6XI <br/>
 [6] https://www.youtube.com/watch?v=0Z8tslPvU0o <br/>
+[7] https://www.youtube.com/shorts/9HOs_BvJ62s
 
 Theory: <br/>
 [A] Math equations https://www.youtube.com/watch?v=gTn_HmzXYLo <br/>
